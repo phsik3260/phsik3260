@@ -1,6 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:7bed9f,100:1dd1a1&height=210&section=header&text=Welcome%20to&fontColor=f5f5f5&fontSize=46&desc=hyunsik's%20github%20pages&descSize=32&descAlign=62&descAlignY=45&fontAlignY=25)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:7bed9f,100:1dd1a1&height=210&section=header&text=Welcome%20to&fontColor=f5f5f5&fontSize=46&desc=hyunsik's%20github%20pages&descSize=32&descAlign=62&descAlignY=48&fontAlignY=28)
 
-Here are some ideas to get you started:
+### Here are some ideas to get you started:
 
 - 🌱 I’m currently learning ...
 - 💬 Ask me about ...
